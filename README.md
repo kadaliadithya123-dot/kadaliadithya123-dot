@@ -30,8 +30,8 @@
 
   <!-- Quick Badges -->
   <p align="center">
-    <a href="https://leetcode.com/u/kadaliadithya123" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-kadaliadithya123-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <a href="https://leetcode.com/u/adithyaaaaa7" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-adithyaaaaa7-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
     </a>
     <a href="https://www.hackerrank.com/profile/kadaliadithya123" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-kadaliadithya123-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" />
@@ -251,7 +251,7 @@ Expanding expertise into scalable backend microservices, artificial intelligence
     <tr>
       <td align="center" width="50%">
         <h4>🟡 LeetCode</h4>
-        <a href="https://leetcode.com/u/kadaliadithya123" target="_blank">
+        <a href="https://leetcode.com/u/adithyaaaaa7" target="_blank">
           <img src="https://img.shields.io/badge/LeetCode-Profile%20%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
         </a>
         <br/><br/>
