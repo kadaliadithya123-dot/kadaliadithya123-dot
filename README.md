@@ -256,11 +256,6 @@ Expanding expertise into scalable backend microservices, artificial intelligence
   <img src="https://raw.githubusercontent.com/kadaliadithya123-dot/kadaliadithya123-dot/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="98%" />
 </div>
 
-> [!TIP]
-> *To enable the automated snake animation on your repository, set up the standard GitHub Action (`Platane/snk`) scheduled workflow in `.github/workflows/snake.yml`.*
-
----
-
 ### 🧩 Competitive Programming Badges
 
 <div align="center">
