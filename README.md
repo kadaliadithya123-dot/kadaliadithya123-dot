@@ -288,7 +288,7 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 
 ---
 
-### 🎵 Listening on Spotify *(Placeholder)*
+### 🎵 Listening on Spotify
 
 <div align="center">
   <p><strong>🎧 Currently Vibe Coding To:</strong></p>
