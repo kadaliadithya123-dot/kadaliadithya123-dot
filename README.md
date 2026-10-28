@@ -36,10 +36,7 @@
     <a href="https://www.hackerrank.com/profile/kadaliadithya123" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-kadaliadithya123-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" />
     </a>
-    <a href="https://wakatime.com/@kadaliadithya123" target="_blank">
-      <img src="https://img.shields.io/badge/WakaTime-Tracking%20Code-000000?style=flat-square&logo=wakatime&logoColor=white" alt="WakaTime" />
-    </a>
-    <a href="https://www.buymeacoffee.com/editncode" target="_blank">
+    <a href="https://www.buymeacoffee.com/adithyaaaaa7" target="_blank">
       <img src="https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
   </p>
@@ -304,11 +301,11 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 If you find my projects helpful or enjoy my open-source tools and video tutorials, consider buying me a coffee to fuel late-night coding sessions!
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/editncode" target="_blank">
+  <a href="https://www.buymeacoffee.com/adithyaaaaa7" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" />
   </a>
   <br/><br/>
-  <a href="https://www.buymeacoffee.com/editncode" target="_blank">
+  <a href="https://www.buymeacoffee.com/adithyaaaaa7" target="_blank">
     <img src="https://img.shields.io/badge/Support%20on-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge" />
   </a>
 </div>
