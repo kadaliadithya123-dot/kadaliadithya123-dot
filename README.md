@@ -367,3 +367,11 @@ Looking to hire a full-stack developer, collaborate on a project, or elevate you
   <br/><br/>
   <sub>Crafted with passion & precision by <a href="https://editncode.in"><strong>Adithya Sri Krishna</strong></a></sub>
 </div>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kadaliadithya123-dot/kadaliadithya123-dot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kadaliadithya123-dot/kadaliadithya123-dot/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kadaliadithya123-dot/kadaliadithya123-dot/output/github-contribution-grid-snake.svg">
+</picture>
