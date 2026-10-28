@@ -300,7 +300,11 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 <div align="center">
   <p><strong>🎧 Currently Vibe Coding To:</strong></p>
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-%F0%9F%8E%B5%20Spotify%20integration%20coming%20soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Status" />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31cylrwwf4zacve3hr2tg7zwnb4q" width="450px" alt="Spotify recently played" />
+  </a>
+  <br/><br/>
+  <a href="https://spotify-recently-played-readme.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Connect%20Your%20Account%20%E2%86%92-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Connect Spotify" />
   </a>
 </div>
 
