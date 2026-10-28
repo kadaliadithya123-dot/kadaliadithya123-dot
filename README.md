@@ -188,11 +188,31 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/kadaliadithya123-dot" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=kadaliadithya123-dot&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <a href="https://github.com/kadaliadithya123-dot?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="85px" alt="Pull Shark" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kadaliadithya123-dot?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="85px" alt="Quickdraw" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kadaliadithya123-dot?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="85px" alt="Pair Extraordinaire" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kadaliadithya123-dot?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="85px" alt="Galaxy Brain" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kadaliadithya123-dot?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="85px" alt="YOLO" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/kadaliadithya123-dot?tab=achievements" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="85px" alt="Arctic Code Vault" />
   </a>
 </div>
 
@@ -224,7 +244,7 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 
 <div align="center">
   <a href="https://github.com/kadaliadithya123-dot" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadaliadithya123-dot&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="98%" alt="Activity Graph" />
+    <img src="https://activity-graph.vercel.app/graph?username=kadaliadithya123-dot&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="98%" alt="Activity Graph" />
   </a>
 </div>
 
@@ -280,7 +300,7 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 <div align="center">
   <p><strong>🎧 Currently Vibe Coding To:</strong></p>
   <a href="https://open.spotify.com" target="_blank">
-    <img src="https://novatorem-spotify-github-profile.vercel.app/api/run-spotify?username=kadaliadithya123&theme=tokyonight" alt="Spotify Now Playing" />
+    <img src="https://img.shields.io/badge/Spotify-%F0%9F%8E%B5%20Spotify%20integration%20coming%20soon-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Status" />
   </a>
 </div>
 
