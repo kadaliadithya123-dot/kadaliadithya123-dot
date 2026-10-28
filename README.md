@@ -244,16 +244,6 @@ Expanding expertise into scalable backend microservices, artificial intelligence
 
 ---
 
-### ⏱️ WakaTime Coding Activity *(Placeholder)*
-
-<div align="center">
-  <a href="https://wakatime.com/@kadaliadithya123" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kadaliadithya123&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="WakaTime Weekly Stats" />
-  </a>
-</div>
-
----
-
 ### 🧩 Competitive Programming Badges
 
 <div align="center">
