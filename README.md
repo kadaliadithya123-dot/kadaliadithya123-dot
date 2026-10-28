@@ -255,13 +255,13 @@ Expanding expertise into scalable backend microservices, artificial intelligence
           <img src="https://img.shields.io/badge/LeetCode-Profile%20%E2%86%92-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge" />
         </a>
         <br/><br/>
-        <a href="https://leetcode.com/u/kadaliadithya123" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/kadaliadithya123?theme=dark&font=Fira%20Code" alt="LeetCode Card" width="90%" />
+        <a href="https://leetcode.com/u/adithyaaaaa7" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/adithyaaaaa7?theme=dark&font=Fira%20Code" alt="LeetCode Card" width="90%" />
         </a>
       </td>
       <td align="center" width="50%">
         <h4>🟢 HackerRank</h4>
-        <a href="https://www.hackerrank.com/profile/kadaliadithya123" target="_blank">
+        <a href="https://www.hackerrank.com/profile/adithyaaaaa7" target="_blank">
           <img src="https://img.shields.io/badge/HackerRank-Profile%20%E2%86%92-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" />
         </a>
         <br/><br/>
